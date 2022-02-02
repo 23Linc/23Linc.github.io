@@ -5,3 +5,8 @@
 .id {
     background-color: red;
 }
+
+.cuerpoTerminal {
+    margin: 1em;
+    color: #00ff08;
+}
